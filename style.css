@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#lblBTC{
+    font-size: 2.5rem;
+    color: white;
+}
+
+button{
+    background-color: goldenrod;
+    color: silver;
+    border: none;
+    transition: 0.3s ease;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+button:hover{
+    transition: 0.3s ease;
+    color: goldenrod;
+    background-color: silver;
+}
